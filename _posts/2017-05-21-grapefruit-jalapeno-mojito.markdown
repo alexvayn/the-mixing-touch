@@ -5,7 +5,7 @@ date:   2017-05-21 23:15:09 -0400
 categories: jekyll update
 ---
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/BOzvfF1lS4A" frameborder="0" allowfullscreen></iframe>
+<iframe width="95%" height="315" src="http://www.youtube.com/embed/BOzvfF1lS4A" frameborder="0" allowfullscreen></iframe>
 
 This one's got a bite, so watch out! A perfect mocktail as we wrap up spring and head into the summer.
 

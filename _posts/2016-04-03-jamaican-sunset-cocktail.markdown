@@ -5,7 +5,7 @@ date:   2016-04-03 23:15:09 -0400
 categories: jekyll update
 ---
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/N_cCgwatOfI" frameborder="0" allowfullscreen></iframe>
+<iframe width="95%" height="315" src="http://www.youtube.com/embed/N_cCgwatOfI" frameborder="0" allowfullscreen></iframe>
 
 As we approach the summer months and the warm weather sets in, why not get a head start and kick things off with a delicious, tropical cocktail?
 
